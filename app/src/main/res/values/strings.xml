@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConnersApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="colours_fragment">Colours</string>
+    <string name="shapes_fragment">Shapes</string>
+    <string name="animals_fragment">Animals</string>
+    <string name="sounds_fragment">Sounds</string>
+</resources>
