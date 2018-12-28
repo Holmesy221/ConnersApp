@@ -13,10 +13,10 @@ import holmes.holmesy.connersapp.R;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class VideoFragment extends Fragment {
+public class BodyFeaturesFragment extends Fragment {
 
 
-    public VideoFragment() {
+    public BodyFeaturesFragment() {
         // Required empty public constructor
     }
 

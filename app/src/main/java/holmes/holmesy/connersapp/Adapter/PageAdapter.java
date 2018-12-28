@@ -8,7 +8,8 @@ import android.support.v4.app.FragmentPagerAdapter;
 import holmes.holmesy.connersapp.Fragment.AnimalsFragment;
 import holmes.holmesy.connersapp.Fragment.CharactersFragment;
 import holmes.holmesy.connersapp.Fragment.ShapesFragment;
-import holmes.holmesy.connersapp.Fragment.SoundsFragment;
+
+import holmes.holmesy.connersapp.Fragment.BodyFeaturesFragment;
 import holmes.holmesy.connersapp.R;
 
 public class PageAdapter extends FragmentPagerAdapter {
@@ -29,7 +30,7 @@ public class PageAdapter extends FragmentPagerAdapter {
             case 2:
                 return new AnimalsFragment();
             case 3:
-                return new SoundsFragment();
+                return new BodyFeaturesFragment();
         }
 
         return null;

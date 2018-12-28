@@ -4,7 +4,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="colours_fragment">Characters</string>
-    <string name="shapes_fragment">Shapes</string>
+    <string name="features_fragment">Features</string>
     <string name="animals_fragment">Animals</string>
     <string name="sounds_fragment">Videos</string>
 </resources>
