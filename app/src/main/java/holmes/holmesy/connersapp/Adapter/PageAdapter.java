@@ -50,7 +50,7 @@ public class PageAdapter extends FragmentPagerAdapter {
                 return context.getString(R.string.colours_fragment);
 
             case 1:
-                return context.getString(R.string.shapes_fragment);
+                return context.getString(R.string.features_fragment);
 
             case 2:
                 return context.getString(R.string.animals_fragment);
