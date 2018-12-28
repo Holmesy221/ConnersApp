@@ -50,12 +50,12 @@ public class PageAdapter extends FragmentPagerAdapter {
                 return context.getString(R.string.colours_fragment);
 
             case 1:
-                return context.getString(R.string.features_fragment);
+                return context.getString(R.string.shapes_fragment);
 
             case 2:
                 return context.getString(R.string.animals_fragment);
             case 3:
-                return context.getString(R.string.sounds_fragment);
+                return context.getString(R.string.features_fragment);
 
             default:
                 return null;
